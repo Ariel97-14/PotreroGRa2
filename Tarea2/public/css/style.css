@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+h2 {
+        font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: indigo;
+}
+div{
+    color: rgb(192, 248, 62);
+}
+.pagina1titulo{
+    color: red;
+}
+.pagina1contenido{
+    color: blue;
+}
+.pagina1pasos{
+    color: brown;
+}
+.pagina2titulo{
+    color: chocolate;
+}
+.Color2texto{
+    color: cornflowerblue;
+}
